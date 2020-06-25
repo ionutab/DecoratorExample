@@ -1,3 +1,5 @@
+package email;
+
 public class SocialAspectsEmail extends EmailDecorator {
 
     public SocialAspectsEmail(Email email) {

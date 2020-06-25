@@ -1,3 +1,5 @@
+package email;
+
 public class CallToActionEmail extends EmailDecorator {
 
     public CallToActionEmail(Email email) {

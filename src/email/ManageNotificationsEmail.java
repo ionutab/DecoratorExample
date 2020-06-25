@@ -1,3 +1,5 @@
+package email;
+
 public class ManageNotificationsEmail extends EmailDecorator {
 
 

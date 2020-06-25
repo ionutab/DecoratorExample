@@ -1,3 +1,5 @@
+package email;
+
 public class ShiftsRequestEmail extends EmailDecorator {
 
     public ShiftsRequestEmail(Email email) {

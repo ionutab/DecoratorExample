@@ -1,3 +1,5 @@
+package email;
+
 public class LogoEmail extends EmailDecorator {
 
     String logoImage = "Logo image";

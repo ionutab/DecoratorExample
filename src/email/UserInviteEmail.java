@@ -1,3 +1,5 @@
+package email;
+
 public class UserInviteEmail extends EmailDecorator {
 
     public UserInviteEmail(Email email) {

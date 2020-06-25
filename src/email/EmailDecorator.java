@@ -1,3 +1,5 @@
+package email;
+
 public class EmailDecorator implements Email {
 
     protected Email email;
